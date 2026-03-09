@@ -16,7 +16,7 @@ API REST para gerenciamento de pedidos com **Node.js**, **Express** e **MongoDB*
 ## ⚙️ Instalação
 
 ```bash
-git clone https://github.com/SEU-USUARIO/node-orders-api.git
+git clone https://github.com/alessandrolsdev/node-orders-api.git
 cd node-orders-api
 npm install
 cp .env.example .env
